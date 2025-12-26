@@ -42,7 +42,6 @@ The AI Mental Health Chatbot is an advanced conversational system designed to ac
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
 
 ## PROGRAM :
 
